@@ -24,3 +24,6 @@ This dashboard visualizes global Amazon sales data to uncover key insights regar
     Customer Christopher Conant has the highest total sales value.
 
 ![image](https://github.com/user-attachments/assets/c16ba6de-15ae-4cb8-b05d-5481ba9cbd5e)
+
+![image](https://github.com/user-attachments/assets/4354880a-e4e7-404b-b5ba-2fabd1cdfe87)
+
